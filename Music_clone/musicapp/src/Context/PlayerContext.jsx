@@ -13,7 +13,7 @@ const PlayerContextProvider = (props)=>{
 
     
 
-    const url = "https://music-app-fbka.onrender.com"
+    const url = "https://music-app-fbka.onrender.com/"
 
     const [playstatus,setplaystatus] = useState(false)
     const [time,settime] = useState({
