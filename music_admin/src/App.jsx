@@ -9,7 +9,7 @@ import ListSong from './Pages/ListSong';
 import Sidebar from './Components/Sidebar';
 import Navbar from './Components/Navbar';
 
-export const url = "https://music-app-fbka.onrender.com"
+export const url = "https://music-app-fbka.onrender.com/"
 
 const App = () => {
   return (
